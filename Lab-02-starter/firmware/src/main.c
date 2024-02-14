@@ -4,7 +4,7 @@
   Company:
     Microchip Technology Inc.
 
-  File Name:
+  File Name: 
     main.c
 
   Summary:
